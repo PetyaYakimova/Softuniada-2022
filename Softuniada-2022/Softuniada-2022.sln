@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeCups", "CoffeeCups\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedArray", "SortedArray\SortedArray.csproj", "{7DC759C8-6A18-45BF-80EE-13F6F6C83E7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralMatrix", "SpiralMatrix\SpiralMatrix.csproj", "{0B93009E-64C2-44FA-8BE5-22FD9FC244DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7DC759C8-6A18-45BF-80EE-13F6F6C83E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DC759C8-6A18-45BF-80EE-13F6F6C83E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DC759C8-6A18-45BF-80EE-13F6F6C83E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B93009E-64C2-44FA-8BE5-22FD9FC244DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B93009E-64C2-44FA-8BE5-22FD9FC244DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B93009E-64C2-44FA-8BE5-22FD9FC244DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B93009E-64C2-44FA-8BE5-22FD9FC244DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
