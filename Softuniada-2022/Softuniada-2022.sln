@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfGCPAndLCM", "SumOfGCPA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeCups", "CoffeeCups\CoffeeCups.csproj", "{FB9582DA-6BE9-48BB-9D9B-9CDA6B5F2F93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedArray", "SortedArray\SortedArray.csproj", "{7DC759C8-6A18-45BF-80EE-13F6F6C83E7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FB9582DA-6BE9-48BB-9D9B-9CDA6B5F2F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB9582DA-6BE9-48BB-9D9B-9CDA6B5F2F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB9582DA-6BE9-48BB-9D9B-9CDA6B5F2F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC759C8-6A18-45BF-80EE-13F6F6C83E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC759C8-6A18-45BF-80EE-13F6F6C83E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC759C8-6A18-45BF-80EE-13F6F6C83E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC759C8-6A18-45BF-80EE-13F6F6C83E7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
