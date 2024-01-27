@@ -1,6 +1,6 @@
 Softuniada-2022
 
-My solutions for the tasks from Softuniada 2022. The tasks can be found here: https://judge.softuni.org/Contests/Practice/Index/3321 
+My solutions for the tasks from Softuniada 2022 - competitive programming. They are done just as an exercise and not as a part of the actual contest. The tasks can be found here: https://judge.softuni.org/Contests/Practice/Index/3321 
 
 Each task is a console application and is in a separate project.
 
